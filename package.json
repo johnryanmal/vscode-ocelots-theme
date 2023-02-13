@@ -1,0 +1,40 @@
+{
+  "name": "vscode-ocelots-theme",
+  "displayName": "Ocelots Theme",
+  "version": "1.0.0",
+  "description": "A dark theme that's easy on the eyes. A VSCode port of the Ocelots theme.",
+  "publisher": "johnryanmal",
+  "license": "MIT",
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme"
+  ],
+  "galleryBanner": {
+    "color": "#222022",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.50.0"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "id": "ocelots",
+        "label": "Ocelots",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ocelots.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johnryanmal/vscode-ocelots-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/johnryanmal/vscode-ocelots-theme/issues",
+    "email": "johnryanmal@gmail.com"
+  },
+  "homepage": "https://github.com/johnryanmal/vscode-ocelots-theme/blob/main/README.md"
+}
