@@ -9,4 +9,4 @@ cd vscode-ocelots-theme/
 . scripts/install
 ```
 
-For a manual install, download the `.vsix` file above and [install from a VSIX](https://code.visualstudio.com/docs/editor/extension-marketplace#_install-from-a-vsix) instead.
+For a manual install, download the `.vsix` file above (or from releases) and [install from a VSIX](https://code.visualstudio.com/docs/editor/extension-marketplace#_install-from-a-vsix) instead.
