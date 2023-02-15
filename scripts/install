@@ -1,8 +1,8 @@
 #!/bin/sh
-cd "$(dirname "$0/..")"
+cd "$(dirname "$0")/.."
 
 local file="$(find . -name "vscode-ocelots-theme-*.vsix" | head -n 1)"
 if [ -e "$file" ]; then
-	code --uninstall-extension "$file"
+	code --uninstall-extension "johnryanmal.vscode-ocelots-theme"
 	code --install-extension "$file"
 fi
