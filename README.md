@@ -1,5 +1,5 @@
 # VSCode Ocelots Theme
-A dark theme that's easy on the eyes. A VSCode port of the [Ocelots theme](https://github.com/OcelotDive/ocelots_theme).
+A dark theme that's easy on the eyes. A VSCode port of the [Ocelots theme](https://github.com/OcelotDive/ocelots_theme). Made with [Theme Studio for VS Code](https://themes.vscode.one/).
 
 ## Installation
 This repository comes with an install script. If you have [`code`](https://code.visualstudio.com/docs/editor/command-line) command installed, you can clone the repo and install like so:
